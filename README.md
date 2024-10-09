@@ -9,7 +9,7 @@
 </div>
 
 <div align="left">
-  <a href="https://petervancleave.github.io/">back to home</a><br><br>
+  <a href="https://petervancleave.github.io/">homepage</a><br><br>
 
 
 <div align="left">
