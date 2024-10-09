@@ -1,6 +1,6 @@
 
 <div align="center">
-  I'm a cybersecurity student currently enrolled at MSU Denver. I like completing wargames, coding, and learning as much as I can about anything cyber related.
+  <p style="color: #ADEBB3;">I'm a cybersecurity student currently enrolled at MSU Denver. I like completing wargames, coding, and learning as much as I can about anything cyber related.</p>
 
 </div>
 
